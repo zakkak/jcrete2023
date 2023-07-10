@@ -26,11 +26,11 @@
 
 ## Day 4 (06.07.2023)
 
-| Session # | Time/Room    | Main Room                           | Library        | Holy Room                                                    | Dionysos                        | Panas                                     | 
-|-----------| -------------|-------------------------------------|----------------|--------------------------------------------------------------|---------------------------------|-------------------------------------------| 
-| 9         | 09:00 - 10:00|                                     |                |                                                              |                                 |                                           |       
-| 10        | 10:15 - 11:15| Architecture Religion vs Reality () |                | Educational tools (Jupyter, UI for JShell) (_Cay Horstmann_) | Containers Deep Dive (_Alvaro_) | Ecstasy ()                                |        
-| 11        | 11:30 - 12:30| Array of structs (_Ludovic_)        | UI (_Cameron_) | Intellij Wizardy (_Heinz Kabutz_)                            |                                 | Learning a (natural) language (_Pauline_) | 
+| Session # | Time/Room    | Main Room                           | Library                        | Holy Room                                                    | Dionysos                        | Panas                                     | 
+|-----------| -------------|-------------------------------------|--------------------------------|--------------------------------------------------------------|---------------------------------|-------------------------------------------| 
+| 9         | 09:00 - 10:00|                                     |                                |                                                              |                                 |                                           |       
+| 10        | 10:15 - 11:15| Architecture Religion vs Reality () | String template (_Remi Forax_) | Educational tools (Jupyter, UI for JShell) (_Cay Horstmann_) | Containers Deep Dive (_Alvaro_) | Ecstasy ()                                |        
+| 11        | 11:30 - 12:30| Array of structs (_Ludovic_)        | UI (_Cameron_)                 | Intellij Wizardy (_Heinz Kabutz_)                            |                                 | Learning a (natural) language (_Pauline_) | 
 
 ## Day 5 - Hackday (07.07.2023)
 
