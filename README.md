@@ -38,8 +38,8 @@
 | 09:00 - 13:30 | [Hack day](Day5) |
 
 ## Day 6 JCrete4Kids Chania (08.07.2018)
-* [TIC-80](JCrete4Kids/TIC-80/Programming Is Magic.pdf)
-* [Lego Boost](JCrete4Kids/LegoBoost/Lego Boost-JCrete4Kids.pdf)
+* [TIC-80](JCrete4Kids/TIC-80/Programming\ Is\ Magic.pdf)
+* [Lego Boost](JCrete4Kids/LegoBoost/Lego\ Boost-JCrete4Kids.pdf)
 
 ## Photos
 
