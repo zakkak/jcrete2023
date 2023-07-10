@@ -33,9 +33,10 @@
 | 11        | 11:30 - 12:30| Array of structs (_Ludovic_)        | UI (_Cameron_) | Intellij Wizardy (_Heinz Kabutz_)                            |                                 | Learning a (natural) language (_Pauline_) | 
 
 ## Day 5 - Hackday (07.07.2023)
-| Time/Room     | Main Room     | 
-|---------------| ------------- | 
-| 09:00 - 13:30 | [Hack day](Day5) |
+
+* [Byte-me](https://byte-me.dev/) by _Chris Newland_
+* "Vector API" by _Jose Paumard_
+* "Hack NetBeans" by _Jan Lahoda_
 
 ## Day 6 JCrete4Kids Chania (08.07.2018)
 * [TIC-80](JCrete4Kids/TIC-80/)
