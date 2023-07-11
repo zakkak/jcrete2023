@@ -2,35 +2,36 @@
 
 ## Day 1 (03.07.2023)
 
-| Session # | Time/Room   | Main Room   | Library   | Holy Room | Dionysos | Panas | 
-| --------- |-------------| ----------- |-----------|-----------|----------|-------|
-| 1 | 10:15 - 11:15 |   |           |           |          |  |
-| 2 | 11:30 - 12:30 |   |           |           |          |  |
+| Session # | Time/Room      | Main Room                                             | Library                              | Holy Room                                                              | Dionysos                                     | Panas                                         | 
+| --------- |----------------|-------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------|
+| 1 | 09:00 - 10:00  | Loom Beyond the Basics / Virtual Threads, Yay or Meh? | Clean Code is waste of time (_Kirk_) | [AI Generated docs, tests, code, etc. (_Peter Lawry_)](Day1/Session1/) | Teaching Programming to Kids and Adults      | Tools! What's messing?                        |
+| 2 | 10:15 - 11:15  | Build tools, maven, gradle                            | JVM, Deep dive, Geek out, Therapy    | Valhala, Ask anything  (_Remi Forax_)                                  | Encouraging Companies to support Open Source | WASM                                          |
+| 3 | 11:30 - 12:30  | OOMKILLER                                             | Burn out                             | Low latency in the cloud?                                              | Reproducible Builds                          | Developer Productivity (_Sebastian Daschner_) |
 
 ## Day 2 (04.07.2023)
 
 | Session # | Time/Room | Main Room  | Library | Holy Room  | Dionysos   | Panas | 
-| --------- | --------- | ---------- |---------| -----------| ---------- | ----- |
-| 3 | 14:15 - 15:15| |         |  |  |  |  |   
-| 4 | 15:30 - 16:30| |         |  |  |  |  |   
-| 5 | 16:45 - 17:45| |         |  |  |  |  |  
+|-----------| --------- | ---------- |---------| -----------| ---------- | ----- |
+| 4         | 14:15 - 15:15| |         |  |  |  |  |   
+| 5         | 15:30 - 16:30| |         |  |  |  |  |   
+| 6         | 16:45 - 17:45| |         |  |  |  |  |  
 
 ## Day 3 (05.07.2023)
 
 | Session # | Time/Room    | Main Room  | Library   | Holy Room  | Dionysos   | Panas | 
-| --------- | ------------ | ---------- | -------   | ---------- | ---------- | ----- |
-| 6 | 09:00 - 10:00|  |  |  |  |  |  |  
-| 7 | 10:15 - 11:15|  |  |  |  |  |  |    
-| 8 | 11:30 - 12:30|  |  |  |  |  |  |    
+|-----------| ------------ | ---------- | -------   | ---------- | ---------- | ----- |
+| 7         | 09:00 - 10:00|  |  |  |  |  |  |  
+| 8         | 10:15 - 11:15|  |  |  |  |  |  |    
+| 9         | 11:30 - 12:30|  |  |  |  |  |  |    
 
 
 ## Day 4 (06.07.2023)
 
 | Session # | Time/Room    | Main Room                           | Library                        | Holy Room                                                    | Dionysos                        | Panas                                     | 
 |-----------| -------------|-------------------------------------|--------------------------------|--------------------------------------------------------------|---------------------------------|-------------------------------------------| 
-| 9         | 09:00 - 10:00|                                     |                                |                                                              |                                 |                                           |       
-| 10        | 10:15 - 11:15| Architecture Religion vs Reality () | String template (_Remi Forax_) | Educational tools (Jupyter, UI for JShell) (_Cay Horstmann_) | Containers Deep Dive (_Alvaro_) | Ecstasy ()                                |        
-| 11        | 11:30 - 12:30| Array of structs (_Ludovic_)        | UI (_Cameron_)                 | Intellij Wizardy (_Heinz Kabutz_)                            |                                 | Learning a (natural) language (_Pauline_) | 
+| 10        | 09:00 - 10:00|                                     |                                |                                                              |                                 |                                           |       
+| 11        | 10:15 - 11:15| Architecture Religion vs Reality () | String template (_Remi Forax_) | Educational tools (Jupyter, UI for JShell) (_Cay Horstmann_) | Containers Deep Dive (_Alvaro_) | Ecstasy ()                                |        
+| 12        | 11:30 - 12:30| Array of structs (_Ludovic_)        | UI (_Cameron_)                 | Intellij Wizardy (_Heinz Kabutz_)                            |                                 | Learning a (natural) language (_Pauline_) | 
 
 ## Day 5 - Hackday (07.07.2023)
 
