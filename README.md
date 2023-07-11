@@ -37,6 +37,7 @@
 * [Byte-me](https://byte-me.dev/) by _Chris Newland_
 * "Vector API" by _Jose Paumard_
 * "Hack NetBeans" by _Jan Lahoda_
+* [JReleaser](https://jreleaser.org/) by _Andres Almiray_
 
 ## Day 6 JCrete4Kids Chania (08.07.2018)
 * [TIC-80](JCrete4Kids/TIC-80/)
