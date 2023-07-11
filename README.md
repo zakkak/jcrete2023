@@ -36,6 +36,7 @@
 
 * [Byte-me](https://byte-me.dev/) by _Chris Newland_
 * "Vector API" by _Jose Paumard_
+* "Valhala" by _Remi Forax_
 * "Hack NetBeans" by _Jan Lahoda_
 * [JReleaser](https://jreleaser.org/) by _Andres Almiray_
 
