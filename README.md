@@ -2,36 +2,36 @@
 
 ## Day 1 (03.07.2023)
 
-| Session # | Time/Room      | Main Room                                             | Library                              | Holy Room                                                              | Dionysos                                     | Panas                                                                                  | 
-| --------- |----------------|-------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------------------------|
-| 1 | 09:00 - 10:00  | Loom Beyond the Basics / Virtual Threads, Yay or Meh? | Clean Code is waste of time (_Kirk_) | [AI Generated docs, tests, code, etc. (_Peter Lawry_)](Day1/Session1/) | Teaching Programming to Kids and Adults      | Tools! What's messing?                                                                 |
-| 2 | 10:15 - 11:15  | Build tools, maven, gradle (_Andres Almiray_)         | JVM, Deep dive, Geek out, Therapy    | Valhala, Ask anything  (_Remi Forax_)                                  | Encouraging Companies to support Open Source | WASM                                                                                   |
-| 3 | 11:30 - 12:30  | OOMKILLER                                             | Burn out                             | Low latency in the cloud?                                              | Reproducible Builds                          | [Developer Productivity](Day1/Session3/Developer-Productivity/) (_Sebastian Daschner_) |
+| Session # | Time/Room      | Main Room                                                                                                          | Library                                                     | Holy Room                                                              | Dionysos                                                     | Panas                                                                                  | 
+|-----------|----------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| 1         | 09:00 - 10:00  | Loom Beyond the Basics / Virtual Threads, Yay or Meh? (_Simone_)                                                   | Clean Code is waste of time (_Kirk_)                        | [AI Generated docs, tests, code, etc. (_Peter Lawry_)](Day1/Session1/) | Teaching Programming to Kids and Adults (_Uberto Barbini_)   | Tools! What's messing? (_Chris Newland_)                                               |
+| 2         | 10:15 - 11:15  | Build tools, maven, gradle (_Andres Almiray_)                                                                      | JVM, Deep dive, Geek out, Therapy (_Chris Newland_)         | Valhala, Ask anything  (_Remi Forax_)                                  | Encouraging Companies to support Open Source (_Peter Lawry_) | WASM inside out (_Abdel_)                                                              |
+| 3         | 11:30 - 12:30  | [The OOMKiller Nightmare (Haim Yadid)](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) | [Burn out (_Ljubisa_)](https://app.simplenote.com/p/Yv3zJH) | Low latency in the cloud? (_Daniel_)                                   | Reproducible Builds (_Andres_)                               | [Developer Productivity](Day1/Session3/Developer-Productivity/) (_Sebastian Daschner_) |
 
 ## Day 2 (04.07.2023)
 
-| Session # | Time/Room | Main Room  | Library | Holy Room  | Dionysos   | Panas | 
-|-----------| --------- | ---------- |---------| -----------| ---------- | ----- |
-| 4         | 14:15 - 15:15| |         |  |  |  |  |   
-| 5         | 15:30 - 16:30| |         |  |  |  |  |   
-| 6         | 16:45 - 17:45| |         |  |  |  |  |  
+| Session # | Time/Room     | Main Room  | Library | Holy Room                                                           | Dionysos                                                 | Panas | 
+|-----------|---------------|------------|---------|---------------------------------------------------------------------|----------------------------------------------------------|-------|
+| 4         | 14:15 - 15:15 |            |         |                                                                     |                                                          |       |  
+| 5         | 15:30 - 16:30 |            |         | [Beyond Senior Java Developer](https://app.simplenote.com/p/Yv3zJH) |                                                          |       |     
+| 6         | 16:45 - 17:45 |            |         |                                                                     | [Java in Education](https://app.simplenote.com/p/Yv3zJH) |       |  
 
 ## Day 3 (05.07.2023)
 
-| Session # | Time/Room    | Main Room  | Library   | Holy Room  | Dionysos   | Panas | 
-|-----------| ------------ | ---------- | -------   | ---------- | ---------- | ----- |
-| 7         | 09:00 - 10:00|  |  |  |  |  |  |  
-| 8         | 10:15 - 11:15|  |  |  |  |  |  |    
-| 9         | 11:30 - 12:30|  |  |  |  |  |  |    
+| Session # | Time/Room    | Main Room                                                                                                                                                 | Library                                                        | Holy Room                                                  | Dionysos | Panas |
+|-----------| ------------ |-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|----------|-------|
+| 7         | 09:00 - 10:00| [CRaC project](https://github.com/CRaC/docs) & [CRaC article](https://foojay.io/today/introducing-the-openjdk-coordinated-restore-at-checkpoint-project/) |                                                                |                                                            |          |       |
+| 8         | 10:15 - 11:15|                                                                                                                                                           | [JMX annotations](https://bugs.openjdk.org/browse/JDK-8044507) |                                                            |          |       |
+| 9         | 11:30 - 12:30|                                                                                                                                                           |                                                                | [Java on ARM](https://bugs.openjdk.org/browse/JDK-8054435) |          |       |
 
 
 ## Day 4 (06.07.2023)
 
-| Session # | Time/Room    | Main Room                                                                                             | Library                          | Holy Room                                                    | Dionysos                        | Panas                                   | 
-|-----------| -------------|-------------------------------------------------------------------------------------------------------|----------------------------------|--------------------------------------------------------------|---------------------------------|-----------------------------------------| 
-| 10        | 09:00 - 10:00| [A War of Words](https://www.dropbox.com/s/31volgckb2k8nuw/2019_AWarOfWords.pdf?dl=0) (_Cliff Click_) |                                  | Java Quiz (_Jose Paumard_)                                   |                                 |                                         |       
-| 11        | 10:15 - 11:15| Architecture Religion vs Reality ()                                                                   | String template (_Remi Forax_)   | Educational tools (Jupyter, UI for JShell) (_Cay Horstmann_) | Containers Deep Dive (_Alvaro_) | Ecstasy ()                              |        
-| 12        | 11:30 - 12:30| Array of structs (_Ludovic_)                                                                          | UI (_Cameron_)                   | Intellij Wizardy (_Heinz Kabutz_)                            |                                 | Learning a (spoken) language (_Polina_) | 
+| Session # | Time/Room    | Main Room                                                                                             | Library                          | Holy Room                                                    | Dionysos                                                            | Panas                                   | 
+|-----------| -------------|-------------------------------------------------------------------------------------------------------|----------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------| 
+| 10        | 09:00 - 10:00| [A War of Words](https://www.dropbox.com/s/31volgckb2k8nuw/2019_AWarOfWords.pdf?dl=0) (_Cliff Click_) |                                  | Java Quiz (_Jose Paumard_)                                   |                                                                     |                                         |       
+| 11        | 10:15 - 11:15| Architecture Religion vs Reality ()                                                                   | String template (_Remi Forax_)   | Educational tools (Jupyter, UI for JShell) (_Cay Horstmann_) | [Containers Deep Dive (_Alvaro_)](Day4/Session2/ContainersDeepDive) | Ecstasy ()                              |        
+| 12        | 11:30 - 12:30| Array of structs (_Ludovic_)                                                                          | UI (_Cameron_)                   | Intellij Wizardy (_Heinz Kabutz_)                            | Growing an Open Source Community (_Andres_)                         | Learning a (spoken) language (_Polina_) | 
 
 ## Day 5 - Hackday (07.07.2023)
 
